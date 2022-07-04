@@ -6,10 +6,7 @@ For this reason, we were given a sequence classification task: to predict whethe
 
 ## Data description
 The training and evaluation data are sets of DNA sequencing reads: short DNA fragments (~100-300 bp long), which come from sequencing experiments, or have been simulated from complete genomes. Some of these fragments come from Covid-19 genomes, others from humans or random bacteria.
-The objective is to discriminate Covid-19 fragments, hence a binary classification task: the labels are either 1 if the fragment is identified as Covid-19, or 0 otherwise.
-
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/134lFMZmOJZ2o0-8dfWhQr8j2q8Lu0G51?usp=sharing)
+The objective is to discriminate Covid-19 fragments, hence a binary classification task: the labels are either 1 if the fragment is identified as Covid-19, or 0 otherwise. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/134lFMZmOJZ2o0-8dfWhQr8j2q8Lu0G51?usp=sharing)
 
 ## Install the Project
 
