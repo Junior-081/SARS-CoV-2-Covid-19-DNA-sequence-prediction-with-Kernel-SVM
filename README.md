@@ -1,4 +1,4 @@
-# Predicting whether a DNA sequence belongs to the SARS-CoV-2 (Covid-19)
+### Predicting whether a DNA sequence belongs to the SARS-CoV-2 (Covid-19)
 
 ## Introduction
 The goal of the data challenge is to learn how to implement machine learning algorithms, understand them, and adapt them to structural data.
