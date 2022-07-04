@@ -9,9 +9,9 @@ The training and evaluation data are sets of DNA sequencing reads: short DNA fra
 The objective is to discriminate Covid-19 fragments, hence a binary classification task: the labels are either 1 if the fragment is identified as Covid-19, or 0 otherwise.
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rrDMZm90kBRAh1HnLpI_5XhnVaTaIDxX?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/134lFMZmOJZ2o0-8dfWhQr8j2q8Lu0G51?usp=sharing)
 
-# Install the Project
+## Install the Project
 
 ```
 $ git@github.com:Junior-081/SARS-CoV-2-Covid-19-DNA-sequence-prediction-with-Kernel-SVM.git
@@ -20,7 +20,7 @@ $ git@github.com:Junior-081/SARS-CoV-2-Covid-19-DNA-sequence-prediction-with-Ker
 ```
 $ cd SARS-CoV-2-Covid-19-DNA-sequence-prediction-with-Kernel-SVM
 ```
-# Virtual environment
+##Virtual environment
 
 ## Mac OS
 
@@ -49,13 +49,13 @@ $ conda create -n venv NAME_ENV
 $ activate NAME_ENV
 ```
 
-# Requirement installations
+## Requirement installations
 To run this, make sure to install all the requirements by:
 
 ```
 $ pip install -r requirements.txt 
 ```
-# Running the model
+## Running the model
 You make sure that you have version 3 of python
 
 To train and Test
@@ -67,7 +67,7 @@ $ python3 main.py
 
 
 
-# Author #
+## Author #
 <div style="display:flex;align-items:center">
 
  <div style="display:flex;align-items:center">
